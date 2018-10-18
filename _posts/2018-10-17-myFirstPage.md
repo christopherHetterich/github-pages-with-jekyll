@@ -1,1 +1,4 @@
-This is a quick draft of my blog post
+---
+title: "Kip's First Blog Post"
+date: 2018-10-18
+---
